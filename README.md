@@ -1,15 +1,5 @@
 # Medz Cue | A Machine Learning Web Application
 
-## Table of Content  
-Problem statment / Why this topic?  
-Flow Chart / Archeticture  
-Directory Tree  
-Quick start  
-Screenshots  
-Technical Aspect  
-Team  
-License  
-
 # Prerequisite
 
 1. **Web Development Basics**: Understand frontend and backend development concepts.  
@@ -33,8 +23,7 @@ PORT =
 fill each filed with your info respectively
 
 # UI
-![](gif.gif)  
-link to video: https://drive.google.com/drive/folders/1LpkBnP7-WG6gmWtiNvwOWhlquX8hNga_?usp=drive_link
+![](gif.gif) 
 
 # ML Model
 ## Disease Prediction from Symptoms
